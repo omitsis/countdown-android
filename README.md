@@ -69,3 +69,5 @@ public class MainActivity extends Activity implements CountDownTimerObserver {
 ...
 
 ```
+
+This content is released under the (http://opensource.org/licenses/MIT) MIT License.
